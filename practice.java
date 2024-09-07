@@ -1,7 +1,8 @@
 class practice {
     public static void main(String[] args){
-        int a = 100;
-        int b = a + (int)18.46545645;
-        System.out.println(b);
+        System.out.print("man = ");
+        System.out.println(Math.max(24,34));
+        System.out.print("min = ");
+        System.out.println(Math.min(24,34));
     }
 }
