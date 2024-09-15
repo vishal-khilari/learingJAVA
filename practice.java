@@ -5,4 +5,4 @@ class practice {
         System.out.print("min = ");
         System.out.println(Math.min(24,34));
     }
-}
+} 
